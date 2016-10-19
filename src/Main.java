@@ -40,6 +40,11 @@ public class Main {
         PezDispenser dispenser = new PezDispenser("Sponge Bob");
         System.out.printf("This dispenser character is %s\n", dispenser.getCharacterName());
 
+        System.out.println("We are making a new Kart");
+        GoKart kart = new GoKart("blue");
+        System.out.printf("This kart is coloured - %s\n", kart.getColor());
+
+
         // state & behaviour
 
 
