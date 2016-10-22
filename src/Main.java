@@ -45,6 +45,13 @@ public class Main {
         System.out.printf("This kart is coloured - %s\n", kart.getColor());
 
 
+        Bottle potion = new Bottle(Bottle.LiquidColor.GREEN,100);
+        System.out.println(potion);
+
+        Bottle potionOfHealing = new Bottle(Bottle.LiquidColor.BLACK, 100);
+        System.out.println(potionOfHealing);
+
+        System.out.println(potion.mixBottles(potionOfHealing).name());
         // state & behaviour
 
 
