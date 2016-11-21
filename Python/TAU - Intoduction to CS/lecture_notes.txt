@@ -1,5 +1,15 @@
 THE DIFFERENCE BETWEEN COMPILED AND INTERPRETED - FINALLY EXPLAINED, CLEARLY !
+
 [Interpreted] - is a machine level program , which interprets and executes the
 high level language line by line . [PYTHON]
+Harder to optimize, less efficient performance
+
+[pros/cons]
+Performed line by line , instruction one by one
+
 [Compiled] - translates the "complete" high level program to ao machine level program [C,C++]
+whole program is compiled and then executed. Can be much more optimized [during compilation process can evaluate and
+use memory, variables , registers more efficiently. Usually will run more efficiently then interpreted program.
+CPU/memory/cache usage should be fairly better.
+The whole process is longer and not as INSTANT as interpreted language
 

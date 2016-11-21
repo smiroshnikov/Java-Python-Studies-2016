@@ -10,7 +10,7 @@ public class PezDispenser {
 
     // constructor example
     // constructor return type of the class that they are
-    public PezDispenser (String characterName){
+    public PezDispenser(String characterName) {
         //initialization code
         mCharacterName = characterName;
     }
@@ -19,8 +19,6 @@ public class PezDispenser {
 
         return mCharacterName;
     }
-
-
 
 
 }

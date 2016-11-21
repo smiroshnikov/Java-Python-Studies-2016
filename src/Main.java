@@ -53,7 +53,7 @@ public class Main {
 
         System.out.println(potion.mixBottles(potionOfHealing).name());
         // state & behaviour
-
+        System.out.println();
 
     } // END OF MAIN FUNCTION
 } // END OF CLASS

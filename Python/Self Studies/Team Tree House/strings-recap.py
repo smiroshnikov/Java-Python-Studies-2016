@@ -1,4 +1,4 @@
-# remeber that string re immutable
+# remember that string re immutable
 
 device_type = "Cisco Switch"
 router_type = "Cisco"
