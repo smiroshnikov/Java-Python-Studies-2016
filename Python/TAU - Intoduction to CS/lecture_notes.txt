@@ -1,0 +1,5 @@
+THE DIFFERENCE BETWEEN COMPILED AND INTERPRETED - FINALLY EXPLAINED, CLEARLY !
+[Interpreted] - is a machine level program , which interprets and executes the
+high level language line by line . [PYTHON]
+[Compiled] - translates the "complete" high level program to ao machine level program [C,C++]
+
